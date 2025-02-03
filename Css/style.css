@@ -1,0 +1,20 @@
+#greycol {
+    color: gray;
+}
+h3:first-child {
+    color: pink;
+}
+div div p {
+    color: red;
+}
+p:nth-of-type(3) {
+    color: green;
+  }
+  
+p.yellow {
+    color: yellow;
+  }
+div p {
+    color: black;
+}
+
